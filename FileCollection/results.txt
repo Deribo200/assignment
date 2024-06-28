@@ -1,0 +1,7 @@
+Summary of Microsoft Office Files:
+
+Excel Files (.xlsx): 0 files, Total Size: 0 bytes
+Word Files (.docx): 0 files, Total Size: 0 bytes
+PowerPoint Files (.pptx): 0 files, Total Size: 0 bytes
+
+Total Office Files: 0 files, Total Size: 0 bytes

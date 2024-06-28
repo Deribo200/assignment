@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\bin\Debug\net6.0\FileCollection.exe
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\bin\Debug\net6.0\FileCollection.deps.json
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\bin\Debug\net6.0\FileCollection.runtimeconfig.json
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\bin\Debug\net6.0\FileCollection.dll
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\bin\Debug\net6.0\FileCollection.pdb
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\FileCollection.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\FileCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\FileCollection.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\FileCollection.AssemblyInfo.cs
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\FileCollection.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\FileCollection.dll
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\refint\FileCollection.dll
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\FileCollection.pdb
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\FileCollection.genruntimeconfig.cache
+C:\Users\pc\Desktop\Start\Files\Challenge\FileCollection\obj\Debug\net6.0\ref\FileCollection.dll
